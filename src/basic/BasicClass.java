@@ -17,6 +17,9 @@ public class BasicClass {
 	}
 	public static void businessLoan() {
 		System.out.println("Business Loan");
+		System.out.println("Business Loan2");
+		System.out.println("Business Loan3");
+		System.out.println("Business Loan4");
 
 	}
 }
