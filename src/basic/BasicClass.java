@@ -11,6 +11,8 @@ public class BasicClass {
 
 	public static void personalLoan() {
 		System.out.println("Personal Loan");
+		System.out.println("Personal Loan2");
+		System.out.println("Personal Loan3");
 
 	}
 	public static void businessLoan() {
