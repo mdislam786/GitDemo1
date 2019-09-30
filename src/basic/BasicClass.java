@@ -7,7 +7,7 @@ public class BasicClass {
 		personalLoan();
 		businessLoan();
 		studentLoan();
-
+		homeLoan();
 	}
 
 	public static void personalLoan() {
@@ -28,6 +28,13 @@ public class BasicClass {
 		System.out.println("Student Loan1");
 		System.out.println("Student Loan2");
 		System.out.println("Student Loan3");
+
+	}
+	
+	public static void homeLoan() {
+		System.out.println("Home Loan1");
+		System.out.println("Home Loan2");
+		System.out.println("Home Loan3");
 
 	}
 }
